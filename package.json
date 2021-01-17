@@ -4,8 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "heroku-postbuild": "npm install && npm start"
+    "start": "node server"
   },
   "keywords": [],
   "author": "",
